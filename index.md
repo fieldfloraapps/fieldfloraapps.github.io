@@ -19,7 +19,7 @@ This Privacy Policy explains how information is handled when using Begonia Botan
 
 ## 2. Information Collection
 
-**Begonia Botanica does not collect personal information through the application.**
+**BegoniaBotanica does not collect personal information through the application.**
 
 Specifically, the application does not:
 
