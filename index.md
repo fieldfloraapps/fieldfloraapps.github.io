@@ -1,19 +1,19 @@
 
-# Begonia Botanica — Privacy Policy
+# BegoniaBotanica — Privacy Policy
 
 **Effective Date:** October 15, 2026
 
-**Application:** Begonia Botanica  
+**Application:** BegoniaBotanica  
 **Developer:** Field & Flora  
 **Contact:** fieldflora.apps@gmail.com
 
 ## 1. Introduction
 
-Begonia Botanica is a free, noncommercial botanical reference application designed to provide information about Begonia species, including taxonomy, geographic distribution, horticultural conditions, and related botanical information.
+BegoniaBotanica is a free, noncommercial botanical reference application designed to provide information about Begonia species, including taxonomy, geographic distribution, horticultural conditions, and related botanical information.
 
 We respect the privacy of our users and believe that accessing botanical information should not require surrendering personal information.
 
-Begonia Botanica is designed to function offline. Its reference databases are included with the application, and its core functionality does not require an internet connection, account registration, or the transmission of user information to the developer.
+BegoniaBotanica is designed to function offline. Its reference databases are included with the application, and its core functionality does not require an internet connection, account registration, or the transmission of user information to the developer.
 
 This Privacy Policy explains how information is handled when using Begonia Botanica and its optional external links.
 
@@ -36,7 +36,7 @@ The application does not require an internet connection for its botanical refere
 
 ## 3. Locally Stored Information
 
-Begonia Botanica may allow users to create and maintain personal records, including:
+BegoniaBotanica may allow users to create and maintain personal records, including:
 
 - Lists of plants in their collection.
 - Plant wishlists and favourites.
@@ -52,7 +52,7 @@ Users retain control of the information they enter. Locally stored information r
 
 ## 4. Internet Connectivity and External Links
 
-Begonia Botanica's botanical databases and reference information are bundled with the application.
+BegoniaBotanica's botanical databases and reference information are bundled with the application.
 
 The application does not require network access to retrieve species information, perform searches, or use its core functions.
 
@@ -62,15 +62,15 @@ Opening an external link is a voluntary action initiated by the user.
 
 When visiting an external website, that website may collect information such as an IP address, browser details, cookies, or information voluntarily submitted by the visitor.
 
-Such information is governed by the privacy practices of the external website and is not collected by Begonia Botanica itself.
+Such information is governed by the privacy practices of the external website and is not collected by BegoniaBotanica itself.
 
 ## 5. Optional Developer Support Through Ko-fi
 
-Begonia Botanica may include a link to Ko-fi, an independent third-party platform through which users can voluntarily support the developer.
+BegoniaBotanica may include a link to Ko-fi, an independent third-party platform through which users can voluntarily support the developer.
 
 Financial contributions are entirely optional.
 
-- No payment is required to download or use Begonia Botanica.
+- No payment is required to download or use BegoniaBotanica.
 - No application features, botanical information, updates, or other benefits are restricted to contributors.
 - Contributors do not receive exclusive content, premium access, or preferential treatment.
 - All application updates and functionality remain available to all users without payment.
@@ -79,7 +79,7 @@ If a user chooses to visit Ko-fi or make a contribution, Ko-fi and its payment p
 
 The developer may receive contribution-related information made available by Ko-fi, such as a supporter name, message, or transaction details. This information is separate from the application and is not used to monitor app activity.
 
-Begonia Botanica does not collect or process payment information within the application.
+BegoniaBotanica does not collect or process payment information within the application.
 
 Ko-fi's privacy practices are described at:
 
@@ -87,13 +87,13 @@ https://more.ko-fi.com/privacy
 
 ## 6. Third-Party Services and App Distribution
 
-Begonia Botanica is distributed through application marketplaces, including Google Play and, when available, the Apple App Store.
+BegoniaBotanica is distributed through application marketplaces, including Google Play and, when available, the Apple App Store.
 
 These marketplaces may independently process information relating to application downloads, installations, purchases, security, diagnostics, or device compatibility in accordance with their respective privacy policies.
 
 The developer may have access to aggregated or limited diagnostic information provided by these marketplaces.
 
-Begonia Botanica does not independently operate an analytics, advertising, or remote crash-reporting service.
+BegoniaBotanica does not independently operate an analytics, advertising, or remote crash-reporting service.
 
 Information processed independently by an application marketplace is subject to that marketplace's privacy policies.
 
@@ -101,19 +101,19 @@ Information processed independently by an application marketplace is subject to 
 
 User-created information is stored within the application's local storage on the user's device.
 
-Begonia Botanica does not operate a remote account database or cloud synchronization service for personal collection information.
+BegoniaBotanica does not operate a remote account database or cloud synchronization service for personal collection information.
 
 Because information is stored locally, its security also depends on the protections provided by the user's operating system and device.
 
 Depending on device configuration and operating-system settings, locally stored application data may be included in device backups or transferred during device migration.
 
-Such backup and restoration processes are controlled by the operating system or backup provider, rather than by Begonia Botanica.
+Such backup and restoration processes are controlled by the operating system or backup provider, rather than by BegoniaBotanica.
 
 Users should consult their device's backup and privacy settings to understand how locally stored application information is handled.
 
 ## 8. Data Retention and Deletion
 
-Begonia Botanica does not retain user-created collection information on developer-controlled servers.
+BegoniaBotanica does not retain user-created collection information on developer-controlled servers.
 
 Information stored within the application generally remains on the user's device until the user deletes it, clears the application's storage, or uninstalls the application.
 
@@ -139,7 +139,7 @@ Users may contact the developer to request deletion of personal information prev
 
 ## 10. Children's Privacy
 
-Begonia Botanica is an informational botanical reference application and does not require users to submit personal information.
+BegoniaBotanica is an informational botanical reference application and does not require users to submit personal information.
 
 The application does not knowingly collect personal information from children or any other users through its core functionality.
 
@@ -159,7 +159,7 @@ https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-s
 
 ## 12. Changes to This Privacy Policy
 
-This Privacy Policy may be updated periodically to reflect changes to Begonia Botanica, its functionality, applicable legal requirements, or its information-handling practices.
+This Privacy Policy may be updated periodically to reflect changes to BegoniaBotanica, its functionality, applicable legal requirements, or its information-handling practices.
 
 Any changes will be published at the current Privacy Policy URL, with the effective date updated accordingly.
 
